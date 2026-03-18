@@ -10,7 +10,7 @@ I've lived across eight countries (🇮🇹🇧🇬🇫🇷🇳🇱🇮🇳🇦�
 
 **[Trajan](https://github.com/lollo7)** — Co-founded an ML-driven sports analytics platform. Top 10% of YC applicants. Built odds scrapers with Playwright and stealth plugins to bypass Cloudflare bot detection, and ML models for parlay prediction.
 
-**TerraFirma Robotics** — Employee #5. Built the perception stack from scratch: LiDAR processing, object detection pipelines, and real-time inference on Nvidia Jetson hardware.
+**TerraFirma Robotics** — Built the perception stack including LiDAR processing and real-time video streaming on Nvidia Jetson hardware.
 
 **UM CAEN** — LLM augmentation engineer. Developed ML compliance pipelines using LangChain and the OpenAI API, with AWS S3/KMS for secure data handling.
 
