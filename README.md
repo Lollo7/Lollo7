@@ -8,7 +8,7 @@ I've lived across eight countries (🇮🇹🇧🇬🇫🇷🇳🇱🇮🇳🇦�
 
 ## 🚀 What I've Built
 
-**[Trajan](https://github.com/lollo7)** — Co-founded an ML-driven sports analytics platform. Top 10% of YC applicants. Built odds scrapers with Playwright and stealth plugins to bypass Cloudflare bot detection, and ML models for parlay prediction.
+**[Trajan](https://trajanbc.com)** — Co-founded an ML-driven sports analytics platform. Top 10% of YC applicants. Built odds scrapers with Playwright and stealth plugins to bypass Cloudflare bot detection, and ML models for parlay prediction.
 
 **TerraFirma Robotics** — Built the perception stack including LiDAR processing and real-time video streaming on Nvidia Jetson hardware.
 
